@@ -78,7 +78,7 @@
 
 2. Для запуска mysql создал docker_context.tf. Проверка наличия секретных env-переменных
 
-![answer9](hhttps://github.com/Vasiliy-Ser/Introduction_to_Terraform_16.1/blob/b20a3d42d8a961b66f7a56eff8fb44bcf9e2e35d/png/2.2.png)
+![answer9](https://github.com/Vasiliy-Ser/Introduction_to_Terraform_16.1/blob/b20a3d42d8a961b66f7a56eff8fb44bcf9e2e35d/png/2.2.png)
 
 
 ### Задание 3*
